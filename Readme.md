@@ -1,4 +1,4 @@
-# Desafio de projeto sobre git/github na plataforma DIO
+# Desafio de projeto sobre Git/Github na plataforma DIO
 
 ## Links Úteis
 **Java**
